@@ -1,0 +1,13 @@
+output.txt;
+load information.txt;
+search science;
+search science,!metadata;
+remove computer science;
+search science,!metadata;
+load short-poems.txt;
+search cat,dog;
+search cat,!dream,dog;
+remove awaking in new york;
+search cat,!dream,dog;
+clear list;
+search cat;

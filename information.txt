@@ -1,0 +1,8 @@
+Computer Science
+###
+Computer science or computing science ( sometimes abbreviated CS ) is the study of the theoretical foundations of information and computation, and of practical techniques for their implementation and application in computer systems. It is frequently described as the systematic study of algorithmic processes that create, describe, and transform information. Computer sincence has many sub-fields; some, such as computer graphics , data mining , emphasize the computation of specific results , while others , such as computational complexity theory , study the properties of computational problems.
+###
+Information Retrieval
+###
+Information retrieval ( IR) is the science of searching for documents, for information within documents, and for metadata about documents, as well as that of searching relational databases and the World Wide Web. There is overlap in the the usage of the terms data retrieval, document retrieval,information retrieval, and text retrieval, but each also has its own body of literature, theory, praxis and technologies. IR is interdisciplinary, based on computer science.
+###
